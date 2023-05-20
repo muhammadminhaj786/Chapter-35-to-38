@@ -79,7 +79,20 @@
 // area(34,56)
 
 // Qustion No 10
-
+//palindrome
+//var newStr="";
+// function palindrome(str){
+//     for (var i=str.length-1;i>=0; i--){
+//         newStr = newStr +  str[i]
+        
+//     }
+//     if (str==newStr){
+//         return true
+//     }else{
+//         return false
+//     }
+// }
+// console.log(palindrome("mom"))
 
 
 // Qustion No 11
